@@ -49,3 +49,6 @@ I can now:
 This activity has improved my confidence in using modern development tools and has given me a foundation for future projects.
 
 ---
+
+I edited this README file again to understand how GitHub commits work.  
+This update shows that I can make changes and save them with proper commit messages.
